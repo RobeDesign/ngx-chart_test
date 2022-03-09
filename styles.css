@@ -1,0 +1,20 @@
+body {
+  font-family: ubuntu;
+  color: #444d59;
+  background-color: #f0f3f8;
+  margin: 20px;
+}
+
+text,
+g,
+g.tick {
+  color: #444d59 !important;
+}
+
+.chart-legend .legend-labels {
+  background: rgba(255, 255, 255, 0.7) !important;
+  border: 1px solid #ffffff;
+  box-shadow: 0px 4px 10px rgba(153, 180, 208, 0.3);
+  backdrop-filter: blur(10px);
+  border-radius: 10px !important;
+}
